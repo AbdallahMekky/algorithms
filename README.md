@@ -1,2 +1,2 @@
 # Algorithms
-Data Structures and Algorithms implementation in C, C++, Java and Python.
+Data Structures and Algorithms implementation in JavaScript.
